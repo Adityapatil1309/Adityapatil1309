@@ -56,9 +56,6 @@ Currently working on <strong>Web Development, AI/ML, and Data Science</strong>.
 </p>
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d8747bea-20af-46eb-9ecd-438608699bae" width="45%" /><br/>
-  <b>Billing / UI Screen</b>
 
 </p>
 ---
