@@ -40,8 +40,7 @@ Currently working on <strong>Web Development, AI/ML, and Data Science</strong>.
 🚀 **Live Demo:** https://fruitstore-app-2026.web.app/
 📂 **Repository:** https://github.com/Adityapatil1309/fruit---store
 
----
-### 📸 App Preview
+---### 📸 App Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2339707d-5862-457e-bbc2-278f117886b0" width="35%" />
