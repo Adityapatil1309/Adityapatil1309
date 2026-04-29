@@ -1,72 +1,67 @@
-# 👋 Hi, I'm Aditya Patil
+## 🍎 Fruit Store Management System
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7A5&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Engineer;Data+Science+Enthusiast;Web+Developer;Building+Real+World+Projects" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00f7a5&style=flat" />
-</p>
+🚀 **Live Demo:** https://fruitstore-app-2026.web.app/
+📂 **Repository:** https://github.com/Adityapatil1309/fruit---store
 
 ---
 
-## 🧠 About Me
-
-🚀 Building: **Fruit Store Web App (Marathi + English)**
-🤝 Open to: **Collaboration on Web + AI Projects**
-🆘 Exploring: **Backend, Firebase, Deployment**
-🌱 Learning: **AI/ML, Data Science, Full-Stack Dev**
-💬 Ask me about: **Simple UI for real users + beginner coding**
-⚡ Fun fact: **I build real products while still learning**
+### 📸 App Preview
 
 ---
 
-## 🛠️ Tech Stack
+### 🔑 Key Features
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,firebase,python" />
-</p>
+#### 👤 User Side
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
----
-
-## 🍎 Featured Project
-
-### 🛒 Fruit Store Web App
-
-* 🧾 Simple UI for local shop owners
+* 📱 Browse fruits easily
 * 🌐 Marathi + English language support
-* 📱 Easy for non-technical users
-* ⚡ Fast & lightweight
+* 🛒 Simple and clean UI
+* ⚡ Fast loading
+
+#### 🛠️ Admin Panel
+
+* ➕ Add / Edit / Delete products
+* 📊 Manage inventory
+* 🔐 Secure login system
+* 📦 Real-time database updates
 
 ---
 
-## 🌐 Connect With Me
+### 🧠 Tech Used
 
-<p align="center">
-  <a href="mailto:itsvgin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+* Frontend: HTML, CSS, JavaScript
+* Backend: Firebase
+* Database: Firestore / Realtime DB
+* Auth: Firebase Authentication
+
+---
+
+### 🎯 Real-World Impact
+
+Designed for **local fruit shop owners** to manage their business digitally
+with a simple interface for non-technical users.
+
+---
+
+## 🛠️ Skills
+
+---
+
+## 📊 GitHub Stats
 
 ---
 
 ## 🎯 Vision
 
-To become a **Full-Stack AI Engineer** and build impactful solutions for real-world businesses.
+To become a **Full-Stack AI Engineer** and build impactful real-world applications.
 
 ---
 
-⭐ *"I don't just learn — I build."*
+## 📫 Contact
+
+📧 Email: [adityapatil1392005@gmail.com](mailto:adityapatil1392005@gmail.com)
+📍 Location: India
+
+---
+
+⭐ *"I don’t just learn — I build real solutions."*
