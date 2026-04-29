@@ -1,70 +1,3 @@
-## 🍎 Fruit Store Management System
-
-🚀 **Live Demo:** https://fruitstore-app-2026.web.app/
-📂 **Repository:** https://github.com/Adityapatil1309/fruit---store
-
----
-
-### 📸 App Preview
-
----
-
-### 🔑 Key Features
-
-#### 👤 User Side
-
-* 📱 Browse fruits easily
-* 🌐 Marathi + English language support
-* 🛒 Simple and clean UI
-* ⚡ Fast loading
-
-#### 🛠️ Admin Panel
-
-* ➕ Add / Edit / Delete products
-* 📊 Manage inventory
-* 🔐 Secure login system
-* 📦 Real-time database updates
-
----
-
-### 🧠 Tech Used
-
-* Frontend: HTML, CSS, JavaScript
-* Backend: Firebase
-* Database: Firestore / Realtime DB
-* Auth: Firebase Authentication
-
----
-
-### 🎯 Real-World Impact
-
-Designed for **local fruit shop owners** to manage their business digitally
-with a simple interface for non-technical users.
-
----
-
-## 🛠️ Skills
-
----
-
-## 📊 GitHub Stats
-
----
-
-## 🎯 Vision
-
-To become a **Full-Stack AI Engineer** and build impactful real-world applications.
-
----
-
-## 📫 Contact
-
-📧 Email: [adityapatil1392005@gmail.com](mailto:adityapatil1392005@gmail.com)
-📍 Location: India
-
----
-
-⭐ *"I don’t just learn — I build real solutions."*
 
 
 <img align="center" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
@@ -151,3 +84,70 @@ Currently working on <strong>Web Development, AI/ML, and Data Science</strong>.
   <img src="https://streak-stats.demolab.com?user=Adityapatil1309&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
+## 🍎 Fruit Store Management System
+
+🚀 **Live Demo:** https://fruitstore-app-2026.web.app/
+📂 **Repository:** https://github.com/Adityapatil1309/fruit---store
+
+---
+
+### 📸 App Preview
+
+---
+
+### 🔑 Key Features
+
+#### 👤 User Side
+
+* 📱 Browse fruits easily
+* 🌐 Marathi + English language support
+* 🛒 Simple and clean UI
+* ⚡ Fast loading
+
+#### 🛠️ Admin Panel
+
+* ➕ Add / Edit / Delete products
+* 📊 Manage inventory
+* 🔐 Secure login system
+* 📦 Real-time database updates
+
+---
+
+### 🧠 Tech Used
+
+* Frontend: HTML, CSS, JavaScript
+* Backend: Firebase
+* Database: Firestore / Realtime DB
+* Auth: Firebase Authentication
+
+---
+
+### 🎯 Real-World Impact
+
+Designed for **local fruit shop owners** to manage their business digitally
+with a simple interface for non-technical users.
+
+---
+
+## 🛠️ Skills
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🎯 Vision
+
+To become a **Full-Stack AI Engineer** and build impactful real-world applications.
+
+---
+
+## 📫 Contact
+
+📧 Email: [adityapatil1392005@gmail.com](mailto:adityapatil1392005@gmail.com)
+📍 Location: India
+
+---
+
+⭐ *"I don’t just learn — I build real solutions."*
