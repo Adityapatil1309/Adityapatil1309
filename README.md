@@ -44,8 +44,13 @@ Currently working on <strong>Web Development, AI/ML, and Data Science</strong>.
 ### 📸 App Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2339707d-5862-457e-bbc2-278f117886b0" width="45%" /><br/>
-  <b>Dashboard / Inventory</b>
+  <img src="https://github.com/user-attachments/assets/2339707d-5862-457e-bbc2-278f117886b0" width="35%" />
+  <img src="https://github.com/user-attachments/assets/d8747bea-20af-46eb-9ecd-438608699bae" width="35%" />
+</p>
+
+<p align="center">
+  <b>Inventory / Dashboard &nbsp;&nbsp;&nbsp;&nbsp; Billing Screen</b>
+</p>
 </p>
 
 <p align="center">
