@@ -120,7 +120,7 @@ To become a **Full-Stack AI Engineer** and build impactful real-world applicatio
 ## 📫 Contact
 
 📧 Email: [adityapatil1392005@gmail.com](mailto:adityapatil1392005@gmail.com)
-📍 Location: India
+📍 Location: India (Kolhapur)
 
 ---
 
