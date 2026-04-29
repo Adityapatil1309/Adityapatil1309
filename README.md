@@ -1,4 +1,5 @@
 
+
 <img align="center" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
@@ -40,13 +41,16 @@ Currently working on <strong>Web Development, AI/ML, and Data Science</strong>.
 🚀 **Live Demo:** https://fruitstore-app-2026.web.app/
 📂 **Repository:** https://github.com/Adityapatil1309/fruit---store
 
----### 📸 App Preview
+### 📸 App Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2339707d-5862-457e-bbc2-278f117886b0" width="35%" />
   <img src="https://github.com/user-attachments/assets/d8747bea-20af-46eb-9ecd-438608699bae" width="35%" />
+  <img src="https://github.com/user-attachments/assets/2ea147e1-e944-41ef-b7cd-c8f99cde9894" width="35%" />
 </p>
 
+<p align="center">
+  <b>Dashboard / Inventory &nbsp;&nbsp;&nbsp;&nbsp; Billing / UI Screen</b>
+</p>
 <p align="center">
   <b>Inventory / Dashboard &nbsp;&nbsp;&nbsp;&nbsp; Billing Screen</b>
 </p>
