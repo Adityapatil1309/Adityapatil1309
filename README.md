@@ -41,14 +41,12 @@ Currently working on <strong>Web Development, AI/ML, and Data Science</strong>.
 📂 **Repository:** https://github.com/Adityapatil1309/fruit---store
 
 ---
-
 ### 📸 App Preview
 
 <p align="center">
-  <img src="YOUR_HOME_IMAGE_LINK" width="45%" />
-  <img src="YOUR_ADMIN_IMAGE_LINK" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d8747bea-20af-46eb-9ecd-438608699bae" width="40%" /><br/>
+  <b>Admin Dashboard / App Interface</b>
 </p>
-
 ---
 
 ### 🔑 Key Features
