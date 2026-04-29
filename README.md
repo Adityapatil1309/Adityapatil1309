@@ -1,5 +1,3 @@
-
-
 <img align="center" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
@@ -36,54 +34,6 @@ Currently working on <strong>Web Development, AI/ML, and Data Science</strong>.
 
 ---
 
-## 🛠️ Skills
-
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-
-<h3>💻 Programming</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,python" />
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>📚 Learning</h3>
-<img src="https://skillicons.dev/icons?i=firebase,nodejs" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-<h3>🗄️ Database</h3>
-<img src="https://skillicons.dev/icons?i=firebase" />
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🧰 Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,vscode,figma" />
-
-</td>
-</tr>
-
-</table>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityapatil1309&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Adityapatil1309&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
 ## 🍎 Fruit Store Management System
 
 🚀 **Live Demo:** https://fruitstore-app-2026.web.app/
@@ -92,6 +42,11 @@ Currently working on <strong>Web Development, AI/ML, and Data Science</strong>.
 ---
 
 ### 📸 App Preview
+
+<p align="center">
+  <img src="YOUR_HOME_IMAGE_LINK" width="45%" />
+  <img src="YOUR_ADMIN_IMAGE_LINK" width="45%" />
+</p>
 
 ---
 
@@ -124,16 +79,25 @@ Currently working on <strong>Web Development, AI/ML, and Data Science</strong>.
 
 ### 🎯 Real-World Impact
 
-Designed for **local fruit shop owners** to manage their business digitally
-with a simple interface for non-technical users.
+Designed for **local fruit shop owners**
+to manage their business digitally with a simple interface.
 
 ---
 
 ## 🛠️ Skills
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,vscode,figma" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityapatil1309&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Adityapatil1309&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 ---
 
