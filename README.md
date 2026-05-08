@@ -38,7 +38,7 @@ Currently working on <strong>Web Development, AI/ML, and Data Science</strong>.
 
 ## 🍎 Fruit Store Management System
 
-🚀 **Live Demo:** https://fruitstore-app-2026.web.app/
+🚀 **Live Demo:**https://fruit-supplier-system.web.app
 📂 **Repository:** https://github.com/Adityapatil1309/fruit---store
 
 ### 📸 App Preview
